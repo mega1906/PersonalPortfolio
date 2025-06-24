@@ -680,6 +680,7 @@ img {
 
   .about-text {
     padding: 0;
+    margin-left: 10px;
   }
 
   .about-image img {
